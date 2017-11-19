@@ -1,0 +1,7 @@
+.gitignore
+*.html
+.DS_Store
+Thumbs.db
+logs/
+bin/
+build/
